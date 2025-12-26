@@ -1,0 +1,14 @@
+# Datasets (DO NOT PUSH)
+data/
+UTKFace/
+
+# Virtual environment
+f-env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
