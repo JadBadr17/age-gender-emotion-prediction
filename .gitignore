@@ -3,7 +3,7 @@ data/
 UTKFace/
 
 # Virtual environment
-f-env/
+tf-env/
 
 # Python cache
 __pycache__/
